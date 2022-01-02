@@ -4,6 +4,8 @@ In this project, the well-known iris dataset and an image dataset of handwritten
 
 The K-Means clustering algorithm was written from scratch to gain a better understanding of the algorithm (things like how cosine distance was calculated however was not implemented from scratch)
 
+Techniques such as KMeans++, and PCA (for the image data) were used.
+
 V-measure was used to evaluate the clusters created.
 
 Highest V-measure on iris dataset: 0.95
